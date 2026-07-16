@@ -6,8 +6,8 @@ Sou **Web Designer & Developer** e especialista em soluções digitais. Minha at
 
 Minha atuação conecta três frentes que normalmente caminham separadas:
 
-🎨 **UX/UI Design** — criação de interfaces centradas no usuário, prototipação, identidade digital e usabilidade focada em conversão.
-💻 **Engenharia de Software** — desenvolvimento web sólido, sustentado por arquiteturas modernas (como React, Next.js, Vercel), integrações eficientes e otimização de performance.
+🎨 **UX/UI Design** — criação de interfaces centradas no usuário, prototipação, identidade digital e usabilidade focada em conversão.<br>
+💻 **Engenharia de Software** — desenvolvimento web sólido, sustentado por arquiteturas modernas (como React, Next.js, Vercel), integrações eficientes e otimização de performance.<br>
 📊 **Engenharia de Dados (Jr)** — estruturação, modelagem e manipulação de dados utilizando Python, SQL e técnicas de automação para extrair inteligência e gerar valor para os negócios.
 
 Acredito que a tecnologia e o design devem andar de mãos dadas com os objetivos de negócio para gerar resultados reais e páginas web extremamente rápidas.
