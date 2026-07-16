@@ -2,26 +2,26 @@
 
 # Olá, eu sou Rodolfo Castro 👋
 
-Sou **Web Designer & Developer** e especialista em soluções digitais [cite: user_profile]. Minha atuação une design, engenharia de software e análise de dados para transformar ideias em experiências de alta performance, rápidas e otimizadas para conversão [cite: user_profile].
+Sou **Web Designer & Developer** e especialista em soluções digitais. Minha atuação une design, engenharia de software e análise de dados para transformar ideias em experiências de alta performance, rápidas e otimizadas para conversão.
 
 Minha atuação conecta três frentes que normalmente caminham separadas:
 
-🎨 **UX/UI Design** — criação de interfaces centradas no usuário, prototipação, identidade digital e usabilidade focada em conversão [cite: user_profile].
-💻 **Engenharia de Software** — desenvolvimento web sólido, sustentado por arquiteturas modernas (como React, Next.js, Vercel), integrações eficientes e otimização de performance [cite: user_profile].
+🎨 **UX/UI Design** — criação de interfaces centradas no usuário, prototipação, identidade digital e usabilidade focada em conversão.
+💻 **Engenharia de Software** — desenvolvimento web sólido, sustentado por arquiteturas modernas (como React, Next.js, Vercel), integrações eficientes e otimização de performance.
 📊 **Engenharia de Dados (Jr)** — estruturação, modelagem e manipulação de dados utilizando Python, SQL e técnicas de automação para extrair inteligência e gerar valor para os negócios.
 
-Acredito que a tecnologia e o design devem andar de mãos dadas com os objetivos de negócio para gerar resultados reais e páginas web extremamente rápidas [cite: user_profile].
+Acredito que a tecnologia e o design devem andar de mãos dadas com os objetivos de negócio para gerar resultados reais e páginas web extremamente rápidas.
 
 ---
 
 ## 🚀 Áreas de atuação
 
-- **Desenvolvimento Web & Performance** (Otimização de páginas e migrações complexas) [cite: user_profile]
-- **Design de Experiência do Usuário (UX)** & Design de Interface (UI) [cite: user_profile]
-- **Engenharia de Software** (Aplicações web modernas e escaláveis) [cite: user_profile]
+- **Desenvolvimento Web & Performance** (Otimização de páginas e migrações complexas)
+- **Design de Experiência do Usuário (UX)** & Design de Interface (UI) 
+- **Engenharia de Software** (Aplicações web modernas e escaláveis)
 - **Engenharia de Dados & SQL** (Modelagem de bancos de dados relacional e não relacional)
 - **Automação de Processos & APIs** (Desenvolvimento de scripts em Python para automação)
-- **Estratégia Digital** (Landing pages focadas em conversão e SEO) [cite: user_profile]
+- **Estratégia Digital** (Landing pages focadas em conversão e SEO)
 
 ---
 
@@ -55,15 +55,14 @@ Aqui você encontrará projetos relacionados a:
 - **Desenvolvimento de Aplicações Web Modernas** (Projetos ágeis, performáticos e responsivos)
 - **Design de Interfaces & UX/UI** (Estudos de caso, wireframes e protótipos de alta conversão)
 - **Pipelines de Dados & SQL** (Estruturação de dados, ETLs simples e automações de rotinas com Python)
-- **Performance Web & WordPress** (Otimizações profundas de servidores, bancos de dados e carregamento de páginas) [cite: user_profile]
-
+- **Performance Web & WordPress** (Otimizações profundas de servidores, bancos de dados e carregamento de páginas) 
 ---
 
 ## 💼 Áreas de interesse
 
-- Desenvolvimento de Aplicações de Alta Performance [cite: user_profile]
-- UX/UI Design aplicado à Conversão de Negócios [cite: user_profile]
-- Arquitetura de Software e Migração de Sistemas [cite: user_profile]
+- Desenvolvimento de Aplicações de Alta Performance 
+- UX/UI Design aplicado à Conversão de Negócios 
+- Arquitetura de Software e Migração de Sistemas 
 - Engenharia de Dados, Automação e Business Intelligence
 - Soluções No-Code/Low-Code robustas integradas a APIs personalizadas
 
@@ -71,7 +70,7 @@ Aqui você encontrará projetos relacionados a:
 
 ## 🎯 Objetivo
 
-Construir soluções digitais esteticamente marcantes, tecnicamente impecáveis e orientadas a dados [cite: user_profile]. Meu foco é otimizar cada pixel de design e cada linha de código para entregar a melhor experiência de usuário e os melhores resultados para o negócio [cite: user_profile].
+Construir soluções digitais esteticamente marcantes, tecnicamente impecáveis e orientadas a dados. Meu foco é otimizar cada pixel de design e cada linha de código para entregar a melhor experiência de usuário e os melhores resultados para o negócio.
 
 ---
 
