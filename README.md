@@ -77,10 +77,11 @@ Construir soluções digitais esteticamente marcantes, tecnicamente impecáveis 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfocastros3t&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rodolfo's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfocastros3t&theme=dark" alt="Rodolfo's Streak Stats" height="180px" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolfocastros3t&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rodolfo's GitHub Stats" height="180px" />
 </div>
-
+<br>
 ---
 
 ## 📬 Connect with me
