@@ -77,9 +77,11 @@ Construir soluções digitais esteticamente marcantes, tecnicamente impecáveis 
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <!-- Seu Streak que já está funcionando perfeitamente -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfocastros3t&theme=dark" alt="Rodolfo's Streak Stats" height="180px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfocastros3t&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rodolfo's GitHub Stats" height="180px" />
+   <!-- Estatísticas Gerais usando o Metrics (Altamente estável) -->
+  <img src="https://metrics.lecoq.io/rodolfocastros3t?template=classic&config.timezone=America%2FFortaleza&base=header%2C%20activity%2C%20community%2C%20repositories-metadata&base.indepth=false&config.colors=github&theme=dark" alt="Rodolfo's GitHub Stats" height="180px" />
 </div>
 <br>
 ---
