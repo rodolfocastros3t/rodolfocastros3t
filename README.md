@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHXu8KMiM3Fmg/profile-displaybackgroundimage-shrink_200_800/B4EZ8TrWAOIkAU-/0/1782741557554?e=1785974400&v=beta&t=4Ke2YtYggLQOXyGIUfKyTm9AyCz_3jeFJtf-evWaOyg"/>
+
 # Olá, eu sou Rodolfo Castro 👋
 
 Sou **Web Designer & Developer** e especialista em soluções digitais [cite: user_profile]. Minha atuação une design, engenharia de software e análise de dados para transformar ideias em experiências de alta performance, rápidas e otimizadas para conversão [cite: user_profile].
